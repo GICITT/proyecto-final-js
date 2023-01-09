@@ -1,0 +1,63 @@
+[
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta1.png",
+    "id": 1
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta2.png",
+    "id": 2
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta3.png",
+    "id": 3
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta4.png",
+    "id": 4
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+	
+    "imagen": "./image/planta5.png",
+    "id": 5
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta6.png",
+    "id": 6
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta7.png",
+    "id": 7
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta8.png",
+    "id": 8
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta9.png",
+    "id": 9
+  },
+  {
+    "nombre": "Albahaca",
+    "precio": 134,
+    "imagen": "./image/planta10.png",
+    "id": 10
+  }
+]

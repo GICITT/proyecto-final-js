@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="sweetalert2.min.css" />
+
+    <link rel="stylesheet" href="styles/styles.css" />
+    <title>BotanicShop</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1><img src="./image/logo.png" alt="" class="logo" /> BotanicShop</h1>
+        <nav>
+          <ul>
+            <li>
+              <a href="#"
+                ><i class="bx bxs-hand-right"></i>Todos los productos</a
+              >
+            </li>
+            <li class="carrito__icon">
+              <a href="#carrito"><i class="bx bxs-cart"></i>Carrito</a
+              ><span class="countCarrito">0</span>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="main">
+      <h2>Productos</h2>
+      <div class="container" id="productos__container"></div>
+    </main>
+    <div class="carrito" id="carrito">
+      <h2>Carrito</h2>
+      <div class="container">
+        <ul class="listaCarrito"></ul>
+        <div id="total"></div>
+        <a href="#" class="btn-primary" id="btn-finalizar">Finalizar Compra</a>
+      </div>
+    </div>
+    <script src="./javascript/app.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  </body>
+</html>
